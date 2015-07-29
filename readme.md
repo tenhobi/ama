@@ -4,6 +4,12 @@
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
+I am currently a 18-years-old highschool student, web developer (well, mostly front-end), proud member of [Nouvelle Communauté](http://nuvel.eu) and I love **Sass**!
+
+I'm [@HonzaBittner](https://twitter.com/honzabittner) on Twitter.
+
+![](http://media.giphy.com/media/n95ZR0la65iuY/giphy.gif)
+
 -
 
 ### Guidelines
