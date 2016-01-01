@@ -4,7 +4,7 @@
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
-I am currently a 19-years-old highschool student, web developer (well, mostly front-end), proud member of [Nouvelle Communauté](http://nuvel.eu) and big lover of **Sass**!
+I am currently a 19-years-old highschool student, web developer (well, mostly front-end), developer at [Nottelo](http://nottelo.com), proud member of [Nouvelle Communauté](http://nuvel.eu) and big lover ❤ of **Angular 2** and **Sass**!
 
 I'm [@HonzaBittner](https://twitter.com/honzabittner) on Twitter.
 
