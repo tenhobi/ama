@@ -4,9 +4,9 @@
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
-I am currently a 19-years-old highschool student, web developer (well, mostly front-end), developer at [Nottelo](http://nottelo.com), proud member of [Nouvelle Communauté](http://nuvel.eu) and big lover ❤ of **Angular 2** and **Sass**!
+I am currently a 20-years-old highschool student, web developer (well, mostly front-end), developer at [Nottelo](http://nottelo.com), proud member of [Nouvelle Communauté](http://nuvel.eu) and big lover ❤ of **Angular 2** and **Sass**!
 
-I'm [@HonzaBittner](https://twitter.com/honzabittner) on Twitter.
+I'm [@tenhobi](https://twitter.com/tenhobi) on Twitter.
 
 ![](http://media.giphy.com/media/n95ZR0la65iuY/giphy.gif)
 
