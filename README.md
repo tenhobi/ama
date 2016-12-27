@@ -4,7 +4,7 @@
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
-I am currently a 20-years-old highschool student, web developer (well, mostly front-end), developer at [Nottelo](http://nottelo.com), proud member of [Nouvelle Communauté](http://nuvel.eu) and big lover ❤ of **Angular 2** and **Sass**!
+I am currently a 20-years-old [FIT CTU in Prague](http://fit.cvut.cz/en) student, web developer (well, mostly front-end) and big lover ❤ of **Angular 2** and **Sass**!
 
 I'm [@tenhobi](https://twitter.com/tenhobi) on Twitter.
 
