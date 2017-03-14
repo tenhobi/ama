@@ -10,8 +10,6 @@ I'm [@tenhobi](https://twitter.com/tenhobi) on Twitter.
 
 ![](http://media.giphy.com/media/n95ZR0la65iuY/giphy.gif)
 
--
-
 ### Guidelines
 
 - Ensure your question hasn't already been answered.
